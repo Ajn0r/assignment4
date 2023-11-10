@@ -15,6 +15,7 @@ namespace PhoneBookApp
 
         public PhoneBook()
         {
+            // Clear the console
             Console.Clear();
             DisplayList();
             SortList();
