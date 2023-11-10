@@ -5,6 +5,13 @@ namespace PartyOrganizer
         public MainForm()
         {
             InitializeComponent();
+            InitializeGUI();
         }
+
+        private void InitializeGUI()
+        {
+            this.Text = "Party Organizer by Ronja Sjögren";
+        }
+
     }
 }

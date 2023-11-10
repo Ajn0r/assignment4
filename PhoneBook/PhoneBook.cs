@@ -8,9 +8,11 @@ namespace PhoneBookApp
 {
     internal class PhoneBook
     {
+        // Initialize the arrays with names and phonenumbers
         private string[] names = { "Kalle", "Lisa", "Anna", "Peter", "Maria" };
         private string[] phones = { "070-1234567", "070-7654321", "070-1111111", "070-2222222", "070-3333333" };
 
+        // Declare a 2d array to hold the names and phonenumbers
         private string[,] phoneList;
 
         public PhoneBook()
@@ -34,6 +36,7 @@ namespace PhoneBookApp
 
         private void DisplayList()
         {
+            // Iterate through the list and display the name and phone number
             for (int i = 0; i < names.Length; i++)
             {
                 Console.WriteLine("{0, -10} {1, -10}", names[i], phones[i]);
@@ -74,10 +77,13 @@ namespace PhoneBookApp
 
         private void FillTable()
         {
+            // Get the number of rows in the table
             int row = phoneList.GetLength(0);
 
+            // Iterate through the rows
             for (int i = 0; i < row; i++)
             {
+                // For each row, set the first column to the name and the second column to the phone number
                 phoneList[i, 0] = names[i];
                 phoneList[i, 1] = phones[i];
             }
@@ -85,17 +91,22 @@ namespace PhoneBookApp
 
         private void DisplayTable()
         {
+            // Declare and initialize variables for rows and columns
             int rows = phoneList.GetLength(0);
             int cols = phoneList.GetLength(1);
 
+            // Iterate through the rows
             for (int row = 0; row < rows; row++)
             {
+                // For each row, print the row number
                 Console.Write(string.Format("{0, -8}", "Row " + row.ToString()));
-                
+                // Iterate through the columns
                 for (int col = 0; col < cols; col++)
                 {
+                    // For each column in the row, write the column value - the name and phone number
                     Console.Write(string.Format("{0, -15}", phoneList[row, col]));
                 }
+                // Write a new line for the next row
                 Console.WriteLine();
             }
         }

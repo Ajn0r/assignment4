@@ -1,0 +1,16 @@
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\Assignment4C\obj\Debug\net6.0-windows\PartyOrganizer.MainForm.resources
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\Assignment4C\obj\Debug\net6.0-windows\PartyOrganizer.csproj.GenerateResource.cache
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\Assignment4C\obj\Debug\net6.0-windows\PartyOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\Assignment4C\obj\Debug\net6.0-windows\PartyOrganizer.AssemblyInfoInputs.cache
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\Assignment4C\obj\Debug\net6.0-windows\PartyOrganizer.AssemblyInfo.cs
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\Assignment4C\obj\Debug\net6.0-windows\PartyOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\Assignment4C\bin\Debug\net6.0-windows\PartyOrganizer.exe
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\Assignment4C\bin\Debug\net6.0-windows\PartyOrganizer.deps.json
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\Assignment4C\bin\Debug\net6.0-windows\PartyOrganizer.runtimeconfig.json
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\Assignment4C\bin\Debug\net6.0-windows\PartyOrganizer.dll
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\Assignment4C\bin\Debug\net6.0-windows\PartyOrganizer.pdb
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\Assignment4C\obj\Debug\net6.0-windows\PartyOrganizer.dll
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\Assignment4C\obj\Debug\net6.0-windows\refint\PartyOrganizer.dll
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\Assignment4C\obj\Debug\net6.0-windows\PartyOrganizer.pdb
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\Assignment4C\obj\Debug\net6.0-windows\PartyOrganizer.genruntimeconfig.cache
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\Assignment4C\obj\Debug\net6.0-windows\ref\PartyOrganizer.dll

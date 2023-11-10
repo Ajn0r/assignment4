@@ -1,4 +1,4 @@
-namespace Assignment4C
+namespace PartyOrganizer
 {
     internal static class Program
     {
@@ -11,7 +11,7 @@ namespace Assignment4C
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
+            Application.Run(new MainForm());
         }
     }
 }
