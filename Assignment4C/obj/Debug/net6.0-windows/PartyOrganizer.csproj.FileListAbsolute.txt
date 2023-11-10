@@ -14,3 +14,4 @@ C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\Assignment4C\obj\De
 C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\Assignment4C\obj\Debug\net6.0-windows\PartyOrganizer.pdb
 C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\Assignment4C\obj\Debug\net6.0-windows\PartyOrganizer.genruntimeconfig.cache
 C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\Assignment4C\obj\Debug\net6.0-windows\ref\PartyOrganizer.dll
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\Assignment4C\obj\Debug\net6.0-windows\PartyOrganizer.Properties.Resources.resources

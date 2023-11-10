@@ -105,6 +105,7 @@
             btnCreateList.TabIndex = 3;
             btnCreateList.Text = "Create List";
             btnCreateList.UseVisualStyleBackColor = true;
+            btnCreateList.Click += btnCreateList_Click;
             // 
             // lblFeePerPers
             // 
@@ -187,6 +188,7 @@
             btnAddGuest.TabIndex = 4;
             btnAddGuest.Text = "Add";
             btnAddGuest.UseVisualStyleBackColor = true;
+            btnAddGuest.Click += btnAddGuest_Click;
             // 
             // lBoxGuestList
             // 
