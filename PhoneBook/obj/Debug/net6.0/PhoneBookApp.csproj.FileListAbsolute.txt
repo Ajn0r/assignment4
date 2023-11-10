@@ -1,0 +1,14 @@
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\PhoneBook\bin\Debug\net6.0\PhoneBookApp.exe
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\PhoneBook\bin\Debug\net6.0\PhoneBookApp.deps.json
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\PhoneBook\bin\Debug\net6.0\PhoneBookApp.runtimeconfig.json
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\PhoneBook\bin\Debug\net6.0\PhoneBookApp.dll
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\PhoneBook\bin\Debug\net6.0\PhoneBookApp.pdb
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\PhoneBook\obj\Debug\net6.0\PhoneBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\PhoneBook\obj\Debug\net6.0\PhoneBookApp.AssemblyInfoInputs.cache
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\PhoneBook\obj\Debug\net6.0\PhoneBookApp.AssemblyInfo.cs
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\PhoneBook\obj\Debug\net6.0\PhoneBookApp.csproj.CoreCompileInputs.cache
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\PhoneBook\obj\Debug\net6.0\PhoneBookApp.dll
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\PhoneBook\obj\Debug\net6.0\refint\PhoneBookApp.dll
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\PhoneBook\obj\Debug\net6.0\PhoneBookApp.pdb
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\PhoneBook\obj\Debug\net6.0\PhoneBookApp.genruntimeconfig.cache
+C:\Users\ÄGARE\OneDrive\Skrivbord\Skola\C#\Kod\Assignment4C\PhoneBook\obj\Debug\net6.0\ref\PhoneBookApp.dll
