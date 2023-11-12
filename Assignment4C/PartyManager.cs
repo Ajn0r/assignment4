@@ -76,19 +76,28 @@ namespace PartyOrganizer
         // Method to add a new guest to the guest list
         public bool AddNewGuest(string firstName, string lastName)
         {
+            string fullName = FullName(firstName, lastName);
+            // find the first vacant position in the array
+            int vacantPosition = FindVacantPosition();
+            // if a vacant position was found, add the guest to the list
+            if (vacantPosition != -1)
+            {
+                guestList[vacantPosition] = fullName;
+                return true;
+            }
             return false;
         }
 
         // Method to calculate the total cost of the party
         public double CalculateTotalCost()
         {
-            return 0.0;
+            return costPerPerson * NumberOfGuests();
         }
 
         // Method to calculate the total fee of the party
         public double CalculateTotalFee()
         {
-               return 0.0;
+               return feePerPerson * NumberOfGuests();
         }
 
         // Method to change the name of a guest at a given index
@@ -100,19 +109,42 @@ namespace PartyOrganizer
         // Method to check if a given index is valid
         public bool CheckIndex(int index)
         {
+            // check that the index is valid (between 0 and the length of the array)
+            if (index >= 0 && index < guestList.Length)
+            {
+                return true;
+            }
             return false;
         }
 
         // Method to delete a guest at a given index
         public bool DeleteAt(int index)
         {
+            // check that the index is valid
+            if (CheckIndex(index))
+            {
+                // set the value at the index to null
+                guestList[index] = null;
+                return true;
+            }
             return false;
         }
 
         // Method to find a vacant position in the array
         private int FindVacantPosition()
         {
-            return 0;
+            // find the first vacant position in the array
+            for (int i = 0; i < guestList.Length; i++)
+            {
+                // if there is a index with a null value, it is vacant
+                if (guestList[i] == null)
+                {
+                    // return the index
+                    return i;
+                }
+            }
+            // if no vacant position was found, return -1
+            return -1;
         }
 
         // Method to return the full name of a guest formated with last name first
@@ -125,7 +157,7 @@ namespace PartyOrganizer
         // Method to get the guest list
         public string[] GetGuestList()
         {
-            return null;
+            return guestList;
         }
 
         // Method to get an item(guest) at a given index
@@ -141,9 +173,20 @@ namespace PartyOrganizer
         }
 
         // Method that returns the number of guests
-        private int NumberOfGuests()
+        public int NumberOfGuests()
         {
-            return guestList.Length;
+            int numOfGuests = 0;
+            // loop through the array and count the number of guests
+            foreach (string guest in guestList)
+            {
+                // if the guest is not null, it is a guest
+                if (guest != null)
+                {
+                    // increment the number of guests
+                    numOfGuests++;
+                }
+            }
+            return numOfGuests;
         }
 
     }
